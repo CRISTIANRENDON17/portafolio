@@ -1,0 +1,7 @@
+npm install @material-ui/core
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @material-ui/icons
+npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+npm install expo-cli --global
+npm install react-router-dom@6
